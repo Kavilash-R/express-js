@@ -1,0 +1,13 @@
+01052024	16:12:00	fd3d44e1-10e0-43c2-aaac-4f45433c77e1	GET	 undefined	 /index
+01052024	16:12:00	84fa47e5-69ce-418c-8bdc-5870e0412738	GET	 undefined	 /style.css
+01052024	16:13:19	30ca63c9-1b1a-4311-83cc-69021aa43b33	GET	 undefined	 /newPage
+01052024	16:13:25	d4a6957f-46e9-4dba-a218-a73db798614f	GET	 undefined	 /
+01052024	16:13:25	c95c1556-acf2-48a6-9e9a-e90ba074693e	GET	 undefined	 /style.css
+01052024	16:16:20	94006212-193c-424a-bcef-0e4d20206e23	GET	 undefined	 /	 /
+01052024	16:16:20	a0c40a3a-5a5a-47f7-a3a6-a98bbf91db56	GET	 undefined	 /style.css	 /style.css
+01052024	16:16:59	b7e1aebe-5edc-4eab-911a-40052dd1c14c	GET	 undefined	 /	 /
+01052024	16:16:59	47be0853-2191-4e0d-a3d5-1171a364928d	GET	 undefined	 /style.css	 /style.css
+01052024	16:18:29	d2a712df-5e98-4d06-85aa-c46e41277f38	GET	 undefined	 /	 /
+01052024	16:18:29	f91e0f6c-c6de-4aa8-ae59-5e560d20ebdf	GET	 undefined	 /style.css	 /style.css
+01052024	17:42:10	f2c6c5b3-58ac-46b4-9e43-0616aabe3f96	GET	 undefined	 /	 /
+01052024	17:42:10	f97fa1b1-eb9a-4de8-8d33-424b77445be7	GET	 undefined	 /style.css	 /style.css
