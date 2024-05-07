@@ -10,4 +10,4 @@
 01052024	16:18:29	d2a712df-5e98-4d06-85aa-c46e41277f38	GET	 undefined	 /	 /
 01052024	16:18:29	f91e0f6c-c6de-4aa8-ae59-5e560d20ebdf	GET	 undefined	 /style.css	 /style.css
 01052024	17:42:10	f2c6c5b3-58ac-46b4-9e43-0616aabe3f96	GET	 undefined	 /	 /
-01052024	17:42:10	f97fa1b1-eb9a-4de8-8d33-424b77445be7	GET	 undefined	 /style.css	 /style.css
+01052024	17:42:10	f97fa1b1-eb9a-4de8-8d33-424b77445be7	GET	 undefined	 /style.css	 /style.css 
